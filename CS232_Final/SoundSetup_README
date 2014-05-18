@@ -1,0 +1,28 @@
+Read Me: Instructions on setting up the speaking software
+This setup has been run successfully in eclipse.  
+
+Download/Install FreeTTS Software: Java speech packages
+1. Open freetts-1.2 folder attached to this project. 
+2. Copy the files to a local directory
+3. Right click on the project in Eclipse, then click Build Path, then Add Libraries.
+4. Choose User Library then create a new library and add the files. 
+
+ 
+Download MBROLA file: gives options for other voices 
+http://freetts.sourceforge.net/mbrola/README.html
+This folder should be included in the Project under MBROLA
+
+Set Eclipse for Errors: Access errors occur
+In Eclipse, go to Window then Preferences.  Then choose Java then compiler then 'Errors/Warnings'
+Under 'Deprecated and Restricted API' make sure everything is checked as a warning. 
+
+
+Old Installation Instructions: 
+Download/Install FreeTTS Software: Java speech packages
+From http://www.ryan-h.com/uncategorized/java-speech-jsapi-freetts/
+1.Download FreeTTS (File included: freetts-1.2.zip)
+2.Unzip the freeTTS binary package and check inside the \lib directory for jsapi.exe
+3.Run Jsapi.exe, say yes, to unpack jsapi.jar
+4.Find your JRE directory, mine was C:\Program Files\Java\jre7\lib\ext
+5.Copy all the Jars (jsapi.jar, freetts.jar, cmu_time_awb.jar, cmu_us_kal.jar, etc.) to that directory
+6.Copy speech.properties to C:\Program Files\Java\jre7\lib
