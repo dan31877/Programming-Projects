@@ -1,5 +1,0 @@
-PagingGUI.README
-
-This program was built for an Operating Systems class. The program replicates a paging table with a TLB and searches for a memory address first 
-in the TLB and then in the paging table. If the address is found, it's recorded as a hit and if not it's a miss.
-I worked in a group of three and my contribution was the GUI.  
