@@ -1,5 +1,0 @@
-SpeakAndSpell_README
-
-This program was developed for my CS232 (Intro to Java) class as a final project. It's a speak and spell so the user can 
-type a word and the computer will read it back. I also added speaking flashcards for math at various levels. This program requires 
-special installation described in the SoundSetup_README and can be run from the MainMenu class.
