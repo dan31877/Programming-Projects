@@ -1,0 +1,6 @@
+AdvancedJava_DB
+
+This project connects to a database and adds transactions to a Transaction Table when an account 
+performs certain activities. 
+
+Note: This program was designed for MySql and will not work using other databases without modification.
