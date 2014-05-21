@@ -1,0 +1,4 @@
+AdvancedJava_GUI
+
+This program draws a pyramid of red and black bricks in a JFrame. The bricks can either be hidden or shown by clicking each brick
+or by clicking the "Hide All" or "Show All" buttons.    
