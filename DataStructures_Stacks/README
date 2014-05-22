@@ -1,0 +1,4 @@
+DataStructures_Stacks
+
+This project consists of two  programs. One  will  validate  palindromes and run from Palindrome.java. The other will validate the pairing of 
+parenthesis in an expression. These programs must both use stacks and both use a linked list to perform these tasks.

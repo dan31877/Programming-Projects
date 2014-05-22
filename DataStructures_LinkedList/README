@@ -1,0 +1,9 @@
+DataStructures_LinkedList
+
+This program is separated into two parts. 
+
+Part 1: IntNode.java and IntLinkedList.java implement a simple Linked List using type ints in the node.
+This part is run through IntLinkedList.java.
+
+Part 2: GenericNode.java and StringLinkedList.java implement a Linked List using generic types in the node which can implement a 
+Linked List of any type. This part is run through StringLinkedList.java using a String type.

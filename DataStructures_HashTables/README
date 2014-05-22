@@ -1,0 +1,5 @@
+DataStructures_HashTables
+
+This program uses Open Address Hashing and Chained Hashing, to store the entries of a movie database. 
+It will read in the data for any of these records, and then store it in an Open Address Hashed array 
+and a Chained Hash array. Use HashDriver.java to launch the program.
