@@ -1,0 +1,8 @@
+Cache Project - run from Main.cpp
+
+This project is an implementation of a software simulation of a cache memory subsystem. Note that any real cache is 
+invisible to software.  This will be a simulation of the way that a real cache works.  
+This "cache" will be a software structure/class  that will contain information similar (but on a smaller and more 
+simplified scale) to what would be in a real cache.  The "main memory" will be a 2K array.  It can be an 
+array of integers or shorts (16-bits), but because it is simulating a byte-addressable memory, you won't be putting 
+any value larger than 0xFF (255 decimal or 11111111 binary) in it.  

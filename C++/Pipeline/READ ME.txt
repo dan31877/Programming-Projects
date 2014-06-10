@@ -1,0 +1,6 @@
+Pipeline Project - can be run from Main.cpp
+
+This program will have four pipeline registers, which are set up as structures (or something equivalent to 
+structures in your language of choice) with a READ and a WRITE version for each.  Each pipeline register's structure 
+will be different and will be based on the information being passed from the previous stage (just like in the 
+real world). 

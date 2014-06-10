@@ -1,0 +1,11 @@
+Disassembler Project - Runs from Main.cpp
+
+This project is a partial disassembler for MIPS instructions. That is, the input will be the 32-bit machine 
+instructions that a compiler or assembler produces.  The program then figures out what the original source 
+instructions were that created those 32-bit machine instructions and outputs them.  The possible source instructions 
+that the program must be able to disassemble are: add, sub, and, or, slt, lw, sw, beq, bne. All other MIPS 
+instructions will be ignored.  
+
+The specific machine instructions that you will disassemble (one after another in this exact order) are:
+0x022DA822, 0x8EF30018, 0x12A70004, 0x02689820, 0xAD930018, 0x02697824, 0xAD8FFFF4, 
+0x018C6020, 0x02A4A825, 0x158FFFF6, 0x8E59FFF0
