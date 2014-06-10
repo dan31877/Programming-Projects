@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1386476405 source:c:\users\dan\documents\c++\pipeline\disassembler.cpp
+	"Disassembler.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1386609266 c:\users\dan\documents\c++\pipeline\disassembler.h
+	<iostream>
+	<sstream>
+	<string>
+
+1386477506 source:c:\users\dan\documents\c++\pipeline\main.cpp
+	<iostream>
+	"Disassembler.h"
+	<string>
+	<sstream>
+	<iomanip>
+
