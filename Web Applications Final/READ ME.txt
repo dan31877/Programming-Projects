@@ -1,0 +1,7 @@
+Web Applications FINAL Project
+
+The final project of my web applications class was to design a website. I chose to design a website for the 
+parent council of my daughter's school. The website was comprised of HTML, CSS, Javascript, and PHP files. 
+The website also connected to a MySQL database and used Ajax/JQuery to validate a form that made calls to 
+this database. This repository contains only the files for this project, the site and database have since 
+been taken down.      
