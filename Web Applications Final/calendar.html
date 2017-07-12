@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="Author"; content="Dan Anderson" />
+<link rel="shortcut icon" href="nashicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="main.css" type="text/css"/>
+<link rel="stylesheet" href="menu.css" type="text/css"/>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js" ></script>
+<script type="text/javascript" src="js/jsHelper.js" ></script>
+
+<title>Calendar</title>
+</head>
+
+<body>
+	
+	<!-- HTML for the site header and menu  -->
+	<h1 class="header"><a name="top">Nash Parent Council<img src="nashcat.jpg" alt="Wildcat"class="floatright" width="70" height="70" /></a></h1>
+	<div class="menu1">
+	<div class="menu borderright"><a href="main.html">Main</a>
+			<ul class="dropdown">
+			<li><a href="main.html#mission">&nbsp;Mission Statement</a></li></ul></div>	
+	<div class="menu borderright"><a href="newsletter.html">Newsletter</a></div>					
+	<div class="menu borderright"><a href="calendar.html">Calendar</a></div>
+	<div class="menu borderright"><a href="php/Form.php">Contact Us</a>
+			<ul class="dropdown">
+			<li><a href="php/Form.php#contacts">&nbsp;Contacts</a></li>
+			<li><a href="php/Form.php#form">&nbsp;Leave a Comment</a></li></ul></div>	
+	</div>	
+	
+	<!-- Links Menu  -->
+	<div><p class="menu2"><a href="https://www.facebook.com/nash.parentcouncil?fref=ts"><img src="facebook.jpg" alt="Check out our Facebook page!" 
+	width="20" height="20" title="Check out our Facebook page!"/></a>&nbsp;&nbsp;
+	<a href="mailto:dan31877@bu.edu"><img src="mail.jpg" alt="Send us an email" 
+	width="25" height="20" title="Send us an email"/></a>&nbsp;&nbsp;
+	<a href="http://www.weymouthschools.org/nash.aspx"><img src="nash.jpg" alt="Official Nash School Page" 
+	width="20" height="20" title="Official Nash School Page"/></a></p></div><br></br>
+	
+	<div class="links"><h2>Links:</h2>
+	<p><a href="https://www.facebook.com/nash.parentcouncil?fref=ts">Facebook</a></p>
+	<p><a href="http://www.weymouthschools.org/nash.aspx">Official Nash Page</a></p>
+	</div>
+	
+	<br></br>
+	
+	<!-- Div for the remainder of the content  -->
+	<div class="maincontent"><br></br><br></br>
+		<div id="time"></div><br></br>
+		<iframe id="calendar" onload="calendarReady();" src="http://www.google.com/calendar/embed?src=dan31877%40bu.edu&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>	
+	
+	
+</div>	
+	
+	<div class="footer"><br></br><br></br><br></br><br></br>
+	<p>This site is designed for the Nash Parent Council</p></div>
+	
+</body>
+
+</html>
