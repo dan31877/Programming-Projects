@@ -1,0 +1,44 @@
+<!-- Component for Part 1 -->
+<div>
+
+    <!-- Set up the table to be used as the cart -->
+    <table>
+      <caption><b>My Books</b></caption>
+
+      <!-- Set the header -->
+      <thead>
+        <tr>
+            <th>Title</th>
+            <th>Qty</th>
+            <th>UnitPrice</th>
+            <th>$UnitPrice</th>
+            <th>LineTotal</th>
+            <th>Total {{getTotal() | currency}}</th>
+        </tr>
+      </thead>
+      <tbody >
+        <!-- For loop to iterate through the list -->
+        <tr *ngFor="let book of books; let i = index;">
+            <!-- Inputs can be changed by the user and are saved to the list -->
+            <td><input [(ngModel)]="book.title" size="25"></td>
+            <td>
+                <input [(ngModel)]="book.qty" size="2">
+            </td>
+            <td><input [(ngModel)]="book.price" size="5"></td>
+            <td>{{book.price | currency}}</td>
+            <td>{{book.price * book.qty | currency}}</td>
+            <td>
+                <!-- Remove button, warn class changes the color to red-->
+                <button class="warn" (click)="removeBook(i)">Remove</button>
+            </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <!-- Add the new and save buttons -->
+          <th colspan="3"><button (click)="addBook()">New</button></th>
+          <th colspan="3"><button (click)="save()">Save</button></th>
+        </tr>
+      </tfoot>
+    </table>
+</div>

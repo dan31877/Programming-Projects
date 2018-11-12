@@ -1,0 +1,16 @@
+<!-- Component for Part 2 -->
+<div>
+	<!-- Label and Input for the user input -->
+	<label>Input:&nbsp;</label>
+    <input [(ngModel)]="input"><br/>
+
+    <!-- Label and Input for the delimeter -->
+    <label>Delimeter:&nbsp;</label>
+    <input [(ngModel)]="delimeter"><br/>
+
+    <!-- Run the tokenizer pipe with args -->
+    <p>{{input | tokenizer}} (Default)</p>
+
+    <!-- Run the tokenizer pipe without args -->
+    <p>{{input | tokenizer:delimeter}} (With Option)</p>
+</div>
