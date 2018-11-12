@@ -1,4 +1,4 @@
-Java
-====
+Programming Projects
+====================
 
-Java projects
+Various programming projects from undergraduate and graduate coursework.
