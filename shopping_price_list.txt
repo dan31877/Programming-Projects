@@ -1,0 +1,171 @@
+﻿Apple Juice; 1.69; N
+Apple Sauce; 1.29; N
+Apples; 2.99; N
+Aluminum Foil; 1.99; Y
+Bacon; 2.99; N
+Bagles, plain; 1.49; N
+Baguette/French Bread; 1.49; N
+Barbeque Sauce; 0.89; N
+Beef Stew Meat; 4.19; N
+Beer, bottle, pilsener, import; 5.99; Y
+Bleach; 1.19; Y
+Brats, 4-6 pack; 1.99; N
+Bread Crumbs; 0.89; N
+Bread, 12-grain/multi-grain; 1.89; N
+Breakfast Sausage, frozen; 0.89; N
+Butter, real, unsalted/salted; 2.29; N
+Carrots, whole; 1.29; N
+Cereal, Müsli style; 2.29; N
+Cheery Pie Filling; 1.79; N
+Cheese Singles (imitation); 0.99; N
+Cheese, block (regular); 1.99; N
+Cheese, Boursin; 2.99; N
+Cheese, Brie 1; 2.99; N
+Cheese, Brie 2; 2.39; N
+Cheese, Parmesan, jar; 2.39; N
+Cheese, shredded, Mexican style; 2.79; N
+Cheese, shredded, Mozarella; 2.99; N
+Cheese, sliced, deli; 1.99; N
+Cheese, sliced, regular; 1.99; N
+Cheese, wedge, deli; 2.79; N
+Chicken Breasts, frozen; 5.49; N
+Chicken Nuggets, frozen; 3.99; N
+Chicken Tenderloins, frozen; 5.99; N
+Chips, potato chips; 1.49; N
+Chocolate Chip Cookie Dough; 1.99; N
+Cocoa Rice Cereal; 1.69; N
+Coconut Milk; 2.49; N
+Coffee; 4.99; N
+Cold Cuts, ham or chicken; 3.29; N
+Cold Cuts, turkey variety; 3.29; N
+Corn Flakes, regular; 1.69; N
+Corn Flakes, sugar frosted; 1.79; N
+Cottage Cheese; 1.99; N
+Cream Cheese; 1.19; N
+Cream, heavy whipping; 1.79; N
+Croissants; 2.49; N
+Diapers; 0.79; Y
+Dish soap; 0.39; Y
+Duct tape ; 2.89; Y
+Eggs, cage free; 1.19; N
+Eggs, regular; 1.09; N
+Fish 1, frozen (flounder); 3.99; N
+Fish 2, frozen (tilapia); 4.49; N
+Flour, all purpose; 1.59; N
+Flour, self rising; 1.59; N
+French Fries, frozen; 1.89; N
+Fruit 1, frozen (strawberries); 1.99; N
+Fruit 2, frozen (cherries and/or other); 2.99; N
+Granola Bars, high fiber; 1.89; N
+Granola Bars, regular; 1.59; N
+Grapes, red; 2.99; N
+Green Beans, canned; 0.59; N
+Ground Beef (chuck, 80/20); 2.89; N
+Ground Beef (sirloin, 90/10); 3.49; N
+Ground Beef, frozen; 2.79; N
+Ground Turkey; 2.99; N
+Ground Turkey, frozen; 1.69; N
+Ham, boneless; 2.99; N
+Hand soap; 0.89; Y
+Honey; 4.49; N
+Honey Crunch Oats; 1.89; N
+Hot Dog Buns; 0.99; N
+Hot Dogs, beef; 2.29; N
+Ice Cream, premium; 2.49; N
+Ice Cream, simple; 1.99; N
+Jalopeño Peppers, canned; 1.19; N
+Ketchup; 1.49; N
+Kielbasa; 1.99; N
+Lemons; 1.99; N
+Lettuce, iceberg; 0.99; N
+Mandarin Oranges, canned; 0.49; N
+Margarine/Spread; 0.99; N
+Mayonnaise; 2.19; N
+Measuring spoons; 1.19; Y
+Milk; 1.99; N
+Milk Chocolate Bar; 1.49; N
+Milk, organic; 2.19; N
+Mushrooms, Button, whole; 0.99; N
+Mushrooms, stems/pieces; 0.59; N
+Mustard, dijon; 0.99; N
+Mustard, yellow; 0.69; N
+Nutella; 3.49; N
+Oat Meal; 1.49; N
+Oil, Canola, 100% pure; 2.69; N
+Oil, Olive, 100% pure; 2.99; N
+Oil, Olive, extra virgin; 3.49; N
+Onions, yellow; 1.69; N
+Orange Juice, not from concentrate; 2.39; N
+Oranges; 2.99; N
+Pancetta or Ham, diced; 2.39; N
+Paper Towles; 5.99; N
+Pasta, Egg Noodles; 0.99; N
+Pasta, Ellbow Maccaroni; 1.69; N
+Pasta, Penne Rigate; 0.99; N
+Pasta, Rotini/Rotelle/Fusilli; 1.49; N
+Pasta, Spaghetti; 1.59; N
+Peanut Butter; 2.29; N
+Peanuts, roasted; 2.69; N
+Pears; 1.99; N
+Pepper, black, ground; 1.99; N
+Pizza Dough; 1.99; N
+Pizza, frozen (premium); 3.89; N
+Pizza, frozen (simple); 1.99; N
+Plastic Wrap; 1.49; Y
+Pork Tenderloin, small; 3.99; N
+Potatoes, gold (Yukon); 2.99; N
+Potatoes, red; 2.49; N
+Potatoes, Russet ; 2.89; N
+Preserves, strawberry; 1.59; N
+Pretzels; 1.29; N
+Red Cabbage; 3.49; N
+Ribs, Baby Back (pork, unseasoned); 3.49; N
+Ribs, Spare Back (pork, unseasoned); 3.49; N
+Rice, instant, white; 2.49; N
+Rice, regular; 1.69; N
+Salad Dressing; 1.39; N
+Salami, sliced; 2.79; N
+Salami, whole (1); 3.49; N
+Salsa, medium; 1.49; N
+Salt, iodized; 0.35; N
+Soda, bottle; 0.69; N
+Soda, bottle (Coke product); 2.29; N
+Soda, can; 2.29; N
+Soda, can (Coke product); 1.39; N
+Soup, Chicken Noodle, condensed; 0.59; N
+Soup, Chicken Noodle, regular; 1.39; N
+Soup, organic; 1.39; N
+Soup, Tomato, condensed; 0.49; N
+Soup, Tomato, regular; 1.29; N
+Sour Cream; 1.29; N
+Spaghetti Sauce; 1.19; N
+Spatula; 1.79; Y
+Sugar, brown; 1.49; N
+Sugar, powdered; 1.49; N
+Sugar, white; 2.19; N
+Syrup, breakfast; 1.59; N
+Tea, green, bags; 1.19; N
+Tissues; 2.89; Y
+Toilet paper; 1.99; Y
+Tomato Paste; 0.39; N
+Tomato Sauce; 0.29; N
+Tomatoes, slicer; 1.59; N
+Tuna, chunky, in water; 0.59; N
+Tuna, solid, in water; 1.15; N
+Vanilla Extract, pure (not imitation); 1.99; N
+Veggies 1, frozen (peas); 0.89; N
+Veggies 2, frozen (other); 0.65; N
+Waffles, frozen; 1.29; N
+Water, regular/drinking; 2.49; N
+Water, Sparkling/Mineral; 2.49; N
+White Bread/Toast, enriched; 0.79; N
+Wine, table, Cabernet; 2.89; N
+Wine, table, Chardonnay; 2.89; N
+Wine, table, White Zinfandel; 2.89; N
+Wipes; 2.89; Y
+Yoghurt, Dannon (etc.); 1.79; N
+Yogurt, Fage, 2%, plain; 1.19; N
+Yogurt, Fage, w/ flavor; 1.19; N
+Yogurt, flavored, cup; 0.39; N
+Yogurt, greek style, plain; 0.89; N
+Yogurt, plain; 1.99; N
