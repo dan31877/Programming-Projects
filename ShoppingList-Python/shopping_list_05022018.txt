@@ -1,0 +1,26 @@
+
+Your Shopping List - 
+	Name of the Item:                                                                Unit Price($):          Quantity:      Total Price($):
+	Bacon                                                                                     2.99                  3               8.97
+	Beef Stew Meat                                                                            4.19                  4              16.76
+	Butter                                                                                    2.29                  5              11.45
+	Carrots                                                                                   1.29                  4               5.16
+	Coffee                                                                                    4.99                  2               9.98
+	Eggs                                                                                      1.09                  1               1.09
+	French Fries                                                                              1.89                  1               1.89
+	Ground Beef (sirloin, 90/10)                                                              3.49                  1               3.49
+	Ham                                                                                       2.99                  2               5.98
+	Hand soap                                                                                 0.89                  4               3.56
+	Ketchup                                                                                   1.49                  2               2.98
+	Measuring spoons                                                                          1.19                  1               1.19
+	Milk                                                                                      1.99                  2               3.98
+	Oat Meal                                                                                  1.49                  2               2.98
+	Spatula                                                                                   1.79                  3               5.37
+	Wipes                                                                                     2.89                  2               5.78
+	Aluminum Foil                                                                             1.99                  3               5.97
+	Cheese, shredded, Mozarella                                                               2.99                  5              14.95
+	Cheese, block (regular)                                                                   1.99                  5               9.95
+
+                                                                                                            Your subtotal is:   121.48
+                                                                                                                         Tax:     0.44
+                                                                                                           Your total amount:   121.92
