@@ -87,6 +87,7 @@ def main():
 
 
     # Several items are pre-loaded into the list for testing
+    """
     item1 = ShoppingItem("Apples", 2.99, "N", 2)
     item2 = ShoppingItem("Bacon", 2.99, "N", 3)
     item3 = ShoppingItem("Beef Stew Meat", 4.19, "N", 4)
@@ -121,7 +122,7 @@ def main():
     myList.append(item16)
     myList.append(item18)
     myList.append(item20)
-
+    """
 
     while( isShopping ):
         usingList = True  # Set to true if the user will be using the list
