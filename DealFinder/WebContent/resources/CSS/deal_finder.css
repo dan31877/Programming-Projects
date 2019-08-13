@@ -1,0 +1,81 @@
+/* body {
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+} */
+
+/* Header/logo Title */
+.header {
+	padding: 70px;
+	height: 200px;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 250%;
+	/* font-weight: bold; */
+	font-style: italic;
+	background: white;
+	color: white;
+	/* text-shadow: 1px 1px 2px black, 0 0 25px green, 0 0 5px darkgreen; */
+	/* text-shadow: 0px 3px 0px green, 
+                 0px 14px 10px rgba(0,0,0,0.15),
+                 0px 24px 2px rgba(0,0,0,0.1),
+                 0px 34px 30px rgba(0,0,0,0.1);  */
+	text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0
+		#2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0
+		#222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0
+		#1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px
+		0 #121212, 0 22px 20px darkgreen;
+	background-image: url("../img/bank-notes-cash-currency-259191.jpg");
+	background-size: 100%;
+}
+
+.guest-user {
+	visibility: hidden;
+}
+
+.mainbody {
+	padding: 10px;
+}
+
+.form-group {
+	padding: 10px;
+}
+
+/* h1 {
+    color: darkgreen; 
+    font-family: Arial, Helvetica, sans-serif;   
+    font-size: 250%;
+    text-align:left; 
+    font-weight: bold;
+    font-style: italic;
+  } */
+h3, h4, h5, h6 {
+	color: darkgreen;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+h2 {
+	color: darkgreen;
+	/* text-shadow: 0px 3px 1px #333333, 
+                 0px 6px 10px rgba(0,0,0,0.15),
+                 0px 10px 2px rgba(0,0,0,0.1),
+                 0px 14px 30px rgba(0,0,0,0.1); */
+	/* text-shadow: 0px 3px 0px grey,2px 2px 5px black; */
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #666, 0px 3px 0px #444, 0px
+		4px 7px #001135;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 10px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+/* Footer */
+.footer {
+	padding: 20px;
+	text-align: center;
+/*	background-image: url("../img/bank-notes-cash-currency-259191.jpg");
+	background-size: 100%;*/
+	/* background: #ddd; */
+}

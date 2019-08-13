@@ -1,0 +1,17 @@
+READ ME - DEAL FINDER
+
+The DEAL FINDER Application allows Registered Users and Guest Users to search a Product to find which stores carry the 
+Product and which store has it for the lowest price. Products can be searched by entering a name or partial name and matches will be displayed on the screen. Clicking the Products link or searching with no text will display all the Products in the database. Registered Users will be able to see the History of their previous searches and can update their User information. 
+
+SET UP/Common Problems: 
+
+- To Run the Project, right click on the Project name and go to Run As then Run on Server
+- There will be a zipped file with the Project that will need to be imported into Eclipse
+- The persistence.xml will need to be updated based on your specific database
+- There is a MariaDB jar file that will need to be added to the build path
+- A database called `dealfinder` will need to be added to the database
+- In the package 'com.perscholas.dealfinder.main', there is a file called "DealFinderDataLoader.java". Running this as a Java Application will load the data into the database.
+- The EclipseLink library will most likely need to be added. The easiest way to do this is to Right Click on the Project then go to Page Facet, unclick the JPA Facet and hit Apply then re-click it. There will be a link that says "Further Configuration Available". Click on that to reload EclipseLink. If this is needed, go to the Build Path and add the EclipseLink library if it's missing. Also, go to Deployment Assembly and click add. Click on Java Build Path Entries and click next. Then click EclipseLink and then apply. 
+- You may need to go and add the Tomcat Server again and you might need to right click on the Project, go to Properties, and then Page Facet. All the way to the right, there is a tab called Runtimes and you might need to make sure the current version of Tomcat is checked.
+- You might also need to do a Maven Clean (Go to Run As) then click the Project tab and click clean there also. Also, there might be a need to Update Maven. This can be done by right clicking on the Project and going to where it says Maven and then click Update Project.
+ 
